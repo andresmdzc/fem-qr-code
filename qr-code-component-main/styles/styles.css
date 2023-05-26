@@ -1,0 +1,37 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    padding: 20% 0;
+}
+
+img{
+    max-width:100%;
+    height: auto;
+    width: auto;
+
+}
+
+h1{
+    color:hsl(218, 44%, 22%);
+    font-size: xx-large;
+}
+
+p{
+    color:   hsl(220, 15%, 55%);
+    font-size: large;
+
+}
+.qr-container{
+    background-color: hsl(0, 0%, 100%);
+    width:80%;
+    margin:auto;
+    padding:20px;
+    display: grid;
+
+}
+
+.qr-information{
+   font-family: 'Outfit', sans-serif;
+   display: grid;
+   align-items: center;
+
+}
